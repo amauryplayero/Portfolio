@@ -256,7 +256,8 @@ a{
 .contactDiv{
     /* background-color: rgb(237, 237, 237); */
     margin-top: 30vh;
-    
+   margin-bottom: 70px;
+    font-size: 30px;
     color:rgb(42, 46, 45);
     display: block;
     text-align: center;
@@ -297,13 +298,13 @@ i{
     margin-bottom: 20vh;
 }
 .email{
-     font-size: 72px;
+     /* font-size: 20px; */
     color:rgb(42, 46, 45);
     display: flex;
     justify-content: center;
     margin-bottom: 40vh;
     font-weight: 700;
-    font-size: 40px;
+    font-size: 30px;
 }
 .contactMeIcon{
     height:30px;
